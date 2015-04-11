@@ -1,5 +1,7 @@
 # PhotoRenamer
 
+Inspired by Dropbox Camera Uploads.
+
 Rename photos into yyyy-mm-dd hh.mm.ss format
 
 ##Usage
