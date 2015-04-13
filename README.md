@@ -1,5 +1,8 @@
 # PhotoRenamer
 
+###Require swift 1.2
+
+
 Inspired by Dropbox Camera Uploads.
 
 Rename photos into yyyy-mm-dd hh.mm.ss format
