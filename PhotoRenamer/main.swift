@@ -17,6 +17,6 @@ if Process.argc == 1 {
 
 process(rawPath)
 
-println("Total failed: \(failNum)")
+print("Total failed: \(failNum)")
 
 

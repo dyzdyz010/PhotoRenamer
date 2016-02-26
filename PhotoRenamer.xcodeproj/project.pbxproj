@@ -94,6 +94,8 @@
 		64E5EAA11AD8A6E700865953 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "杜艺卓";
 				TargetAttributes = {
@@ -244,6 +246,7 @@
 				64E5EAB21AD8A6E700865953 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

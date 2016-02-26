@@ -15,7 +15,7 @@ func buildPath(filename: String) ->String {
     
     let filePath = NSBundle.mainBundle().pathForResource(filename, ofType: nil)
     if filePath == nil {
-        println("File \(filename) does not exist.")
+        print("File \(filename) does not exist.")
         exit(0)
     }
     
