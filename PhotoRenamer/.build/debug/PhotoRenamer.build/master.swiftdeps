@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0-dev (LLVM cb08d1dbbd, Clang 383859a9c4, Swift 9e8266aaeb)"
-options: "6cdebed75b3f3d3d5e7e72e7f7758e72"
-build_time: [519624686, 325226000]
-inputs:
-  "/Users/DYZ/Developer/swift/PhotoRenamer/PhotoRenamer/Sources/main.swift": [519622767, 0]
-  "/Users/DYZ/Developer/swift/PhotoRenamer/PhotoRenamer/Sources/path.swift": [519622784, 0]
-  "/Users/DYZ/Developer/swift/PhotoRenamer/PhotoRenamer/Sources/photo.swift": [519623903, 0]
