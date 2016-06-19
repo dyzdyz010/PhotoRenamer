@@ -9,10 +9,12 @@ Rename photos into yyyy-mm-dd hh.mm.ss format
 
 ##Usage
 
-Build the project, drag the binary in to the folder with photos in it, then just run
+- Build the binary
+- Choose below:
+    1. 
+        + Put the binary under your photo directory
+        + Just run `./PhotoRenamer`
 
-```
-./PhotoRenamer
-```
+    2. run `PhotoRenamer your-image-file-or-directory`
 
-it will look up all image files and sub-directories inside the folder and rename all images files into `yyyy-mm-dd hh.mm.ss` format if EXIF properties exists.
+It will look up all image files and sub-directories inside the folder and rename all images files into `yyyy-mm-dd hh.mm.ss` format if EXIF datetime property exists.
